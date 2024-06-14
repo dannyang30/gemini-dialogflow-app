@@ -1,0 +1,9 @@
+google-cloud-aiplatform
+langchain==0.1.17 
+requests==2.31.0
+langchain-google-vertexai
+google-cloud-secret-manager
+Flask
+Flask-Cors
+vertexai
+google-cloud
